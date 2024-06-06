@@ -1,4 +1,4 @@
 pandas
 numpy
 seaborn
--e . 
+-e . # install the project in 'editable' mode. this ensures it's ready for ongoing development.
