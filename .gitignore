@@ -11,7 +11,7 @@ __pycache__/
 predictor9/
 
 # Ignore the student data
-predictor9/notebook/stud.csv
+predictor9/notebook/data/stud.csv
 
 
 # Distribution / packaging
