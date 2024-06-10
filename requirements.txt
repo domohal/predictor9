@@ -1,4 +1,6 @@
 pandas
 numpy
 seaborn
+matplotlib
+scikit-learn
 -e . # install the project in 'editable' mode. this ensures it's ready for ongoing development.
