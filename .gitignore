@@ -13,6 +13,9 @@ predictor9/
 # Ignore the student data
 predictor9/notebook/data/stud.csv
 
+notebook/data/stud.csv
+
+
 
 # Distribution / packaging
 .Python
