@@ -1,0 +1,1 @@
+# stuff that I might use several times throughout the project in different sections, e.g. creating a cursor for connecting to databases.
