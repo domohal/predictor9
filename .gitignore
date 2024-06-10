@@ -10,6 +10,10 @@ __pycache__/
 # Ignore the predictor9 virtual environment directory
 predictor9/
 
+# Ignore the student data
+# predictor9/notebook/stud.csv
+
+
 # Distribution / packaging
 .Python
 build/
